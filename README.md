@@ -30,5 +30,16 @@ El cambio climático es el mayor desafío de nuestra generación, pero también 
 
 ## 🛠 Funciones Principales
 
-- wd adwa
-- wdada 
+### 1. 📊 Mapas y Gráficos Dinámicos:
+- Representación geoespacial del aumento de temperatura en diferentes países.
+- Mapa de riesgo climático con datos sobre incendios forestales, huracanes y sequías.
+
+### 2. 🗺️ Simulaciones Interactivas:
+- Visualización del nivel del mar en distintas ciudades con base en proyecciones científicas.
+- Simulación de cómo el uso de energías renovables puede reduir las emisiones de Co₂
+
+### 3. 💻 Calculadora de Huella de Carbono:
+- Permite a los usuarios ingresar datos sobre su estilo de vida (transporte, alimentación, consumo de energía) para calcular su impacto ambiental.
+- Recomendaciones personalizadas para reducir la huella de carbono.
+
+### 4.
