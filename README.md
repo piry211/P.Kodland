@@ -26,4 +26,9 @@ El cambio climático es el mayor desafío de nuestra generación, pero también 
 
 ## 📌 Descripción General
 
-Esta plataforma web tiene como objetivo educar a las personas sobre el impacto del cambio climatico a nivel global mediante el uso de mapas interactivos, gráficos dinámios y simulaciones visuales. Los usuarios podrám explorar en tiempo real cómo el aumento de temperatura, el deshielo de los polos y los eventos climáticos extremos afectan a diferentes regiones del planeta. 
+**Esta plataforma web tiene como objetivo educar a las personas sobre el impacto del cambio climatico a nivel global mediante el uso de mapas interactivos, gráficos dinámios y simulaciones visuales. Los usuarios podrám explorar en tiempo real cómo el aumento de temperatura, el deshielo de los polos y los eventos climáticos extremos afectan a diferentes regiones del planeta.**
+
+## 🛠 Funciones Principales
+
+-wd adwa
+-wdada 
