@@ -30,5 +30,5 @@ El cambio climático es el mayor desafío de nuestra generación, pero también 
 
 ## 🛠 Funciones Principales
 
--wd adwa
--wdada 
+- wd adwa
+- wdada 
