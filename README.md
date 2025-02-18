@@ -42,4 +42,14 @@ El cambio climático es el mayor desafío de nuestra generación, pero también 
 - Permite a los usuarios ingresar datos sobre su estilo de vida (transporte, alimentación, consumo de energía) para calcular su impacto ambiental.
 - Recomendaciones personalizadas para reducir la huella de carbono.
 
-### 4.
+### 4. 📚 Sección Educativa:
+- Explicaciones claras sobre los efectos del cambio climático.
+- Noticiales y avances científico sobre energías limpias y sosteniblidad.
+
+### 5. 👥 Comunidad y retos climáticos:
+- Foro de discusión donde los usuarios pueden compartir ideas y proyectos ecológicos.
+- Desafíos ecológicos semanales con insignias virtuales por completar acciones sostenibles.
+
+  
+# 🎯Objetivo del proyecto
+**Concietizar y educar a las personas a través de herramientas visuales y dinámicas, promoviendo la acción climática de forma accesible y comprensible para todas las edades.**
