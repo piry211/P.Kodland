@@ -2,10 +2,6 @@
 
 El cambio climático es el mayor desafío de nuestra generación, pero también una oportunidad para marcar la diferencia. En esta plataforma, exploramos las causas, impactos y soluciones para proteger nuestro hogar: la Tierra. A través de información clara, datos impactantes y acciones concretas, te invitamos a ser parte del cambio. Juntos, podemos construir un futuro sostenible y lleno de esperanza. 🌿💙♻️
 
-# 📌 Descripción General
-
-Esta plataforma web tiene como objetivo educar a las personas sobre el impacto del cambio climático a nivel global mediante el uso de mapas interactivos, gráficos dinámicos y simulaciones visuales. Los usuarios podrán explorar en tiempo real cómo el aumento de temperatura, el deshielo de los polos y los eventos climáticos extremos afectan a diferentes regiones del planeta.
-
 # Ideas Generales 💡
 
 - 🌿 1. Plataforma Interactiva de Conciencia Climática
@@ -24,3 +20,10 @@ Esta plataforma web tiene como objetivo educar a las personas sobre el impacto d
 
 ### Desarrolla un juego en el que los usuarios tomen decisiones sobre energía, transporte y consumo, viendo como afectan al planeta en el tiempo. Esto ayudaria a entende la importancia de un estilo de vida sostenible 
 
+
+
+# - 🌿 1. Plataforma Interactiva de Conciencia Climática
+
+## 📌 Descripción General
+
+Esta plataforma web tiene como objetivo educar a las personas sobre el impacto del cambio climatico a nivel global mediante el uso de mapas interactivos, gráficos dinámios y simulaciones visuales. Los usuarios podrám explorar en tiempo real cómo el aumento de temperatura, el deshielo de los polos y los eventos climáticos extremos afectan a diferentes regiones del planeta. 
