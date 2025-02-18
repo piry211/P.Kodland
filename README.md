@@ -8,15 +8,15 @@ El cambio climático es el mayor desafío de nuestra generación, pero también 
 
 - 🌿 1. Plataforma Interactiva de Conciencia Climática
 
-### ideasdadijaiwdji ajd
+### Crea una web con mapas, gráficos y simulaciones interactivas que muestren el impacto del cambio climático en diferentes partes del mundo. Puedes incluir una calculadora de huella de carbono y consejos personalizados para reducirla.
 
-- 🌿 1. Plataforma Interactiva de Conciencia Climática
+- 🔥 2. Blog de Historias y Soluciones
 
-### ideasdadijaiwdji ajd
+### Publica artículos sobre los efectos del cambio climático y cómo las personas, comunidades y empresas están tomando acción. Incluye entrevistas con activistas, científicos y emprendedores ecológicos.
 
-- 🌿 1. Plataforma Interactiva de Conciencia Climática
+- ♻️ 3. Red Social Verde
 
-### ideasdadijaiwdji ajd
+### Diseña una plataforma donde los usuarios compartan sus acciones ecológicas, desde reciclar hasta proyectos de reforestación. Podría incluir desafíos semanales y recompensas virtuales para motivar la participación.
 
 - 🌿 1. Plataforma Interactiva de Conciencia Climática
 
