@@ -6,19 +6,19 @@ El cambio climático es el mayor desafío de nuestra generación, pero también 
 
 # Ideas Generales 
 
-## 🌿 1. Plataforma Interactiva de Conciencia Climática
+### 🌿 1. Plataforma Interactiva de Conciencia Climática
 
 - ideasdadijaiwdji ajd
 
-## 🌿 1. Plataforma Interactiva de Conciencia Climática
+- 🌿 1. Plataforma Interactiva de Conciencia Climática
 
-- ideasdadijaiwdji ajd
+### ideasdadijaiwdji ajd
 
-## 🌿 1. Plataforma Interactiva de Conciencia Climática
+- 🌿 1. Plataforma Interactiva de Conciencia Climática
 
-- ideasdadijaiwdji ajd
+### ideasdadijaiwdji ajd
 
-## 🌿 1. Plataforma Interactiva de Conciencia Climática
+- 🌿 1. Plataforma Interactiva de Conciencia Climática
 
-- ideasdadijaiwdji ajd
+### ideasdadijaiwdji ajd
 
